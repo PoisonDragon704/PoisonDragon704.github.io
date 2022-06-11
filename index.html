@@ -227,25 +227,7 @@
 <div id="tab3" class="tab">
 <div data-page="index" class="page"> 
 <div class="page-content">
-   <div class="navbar">
-      <div class="navbar-bg"></div>
-      <div class="navbar-inner">
-        <div class="title">Search Bar</div>
-        <div class="subnavbar">
-          <form class="searchbar">
-            <div class="searchbar-inner">
-              <div class="searchbar-input-wrap">
-                <input type="search" placeholder="Search" />
-                <i class="searchbar-icon"></i>
-                <span class="input-clear-button"></span>
-              </div>
-              <span class="searchbar-disable-button if-not-aurora">Cancel</span>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-</div>
+<h1 style="font-size:40px;margin-left:5%;margin-top:20px;">Search</h1>
 </div>
 </div>
 </div>
@@ -255,24 +237,5 @@
 <script src="js/framework7.bundle.js"></script>
 <script src="js/routes.js"></script>
 <script src="js/app.js"></script>
-<script>
-  export default (props, { $f7, $on }) => {
-    $on('pageInit', () => {
-      // create searchbar
-      var searchbar = $f7.searchbar.create({
-        el: '.searchbar',
-        searchContainer: '.list',
-        searchIn: '.item-title',
-        on: {
-          search(sb, query, previousQuery) {
-            console.log(query, previousQuery);
-          }
-        }
-      });
-    })
-
-    return $render;
-  }
-</script>
 </body>
 </html>
