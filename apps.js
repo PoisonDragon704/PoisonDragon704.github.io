@@ -18,5 +18,5 @@ function FilzaEscaped15() {
 window.open("https://sign.starfiles.co/?ipa=c6078ec402&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 function Delta() {
-window.open("https://sign.starfiles.co/?ipa=tNnsA9OPlh07&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+window.open("https://sign.starfiles.co/?ipa=5c8205d85428&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
