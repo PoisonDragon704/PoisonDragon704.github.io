@@ -12,7 +12,7 @@ function Odyssey() {
 window.open("https://sign.starfiles.co/?ipa=e4070f&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 function Chimera() {
-window.open("https://sign.starfiles.co/?ipa=c6078ec402&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+window.open("https://sign.starfiles.co/?ipa=HYAY5BUMIHAu&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 function FilzaEscaped15() {
 window.open("https://sign.starfiles.co/?ipa=c6078ec402&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
