@@ -23,3 +23,4 @@ window.open("https://sign.starfiles.co/?ipa=5c8205d85428&p12=" + p12 + "&mobilep
 function iPogo() {
 window.open("https://sign.starfiles.co/?ipa=fedc214b85b7&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
+
