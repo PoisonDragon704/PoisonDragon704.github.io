@@ -1,6 +1,6 @@
-var p12 = "0dc94556047d"
-var mobileprovision = "cc9501dd5d8d"
-var password = "1"
+var p12 = "d6ee2dd311d6"
+var mobileprovision = "3ff67aa1c2a6"
+var password = "123456789"
 
 function unc0ver() {
 window.open("https://sign.starfiles.co/?ipa=1bca09a52a24&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
