@@ -25,3 +25,9 @@ window.open("https://sign.starfiles.co/?ipa=fedc214b85b7&p12=" + p12 + "&mobilep
 }
 function INDS() {
 window.open("https://sign.starfiles.co/?ipa=ef45fd2425ca&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+}
+function ZiniTevi() {
+window.open("https://sign.starfiles.co/?ipa=08f2012ac6e1&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+}
+function PPSSPP() {
+window.open("https://sign.starfiles.co/?ipa=d819eb51ccf3&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
