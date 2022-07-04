@@ -31,3 +31,6 @@ window.open("https://sign.starfiles.co/?ipa=08f2012ac6e1&p12=" + p12 + "&mobilep
 }
 function PPSSPP() {
 window.open("https://sign.starfiles.co/?ipa=d819eb51ccf3&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+}
+function SpooferX() {
+window.open("https://sign.starfiles.co/?ipa=d3ec34949fd0&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
