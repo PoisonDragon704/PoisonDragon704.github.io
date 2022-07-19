@@ -39,3 +39,10 @@ function Root() {
 window.open("https://sign.starfiles.co/?ipa=104a124769d3&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 
+function sign() {
+            ipa = document.getElementById("ipa").value;
+            p12 = document.getElementById("p12").value;
+            mobileprovision = document.getElementById("mobile").value;
+            password = document.getElementById("password").value;                        
+            window.open("https://sign.starfiles.co/?ipa=" + ipa + "&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+}
