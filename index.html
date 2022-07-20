@@ -226,10 +226,7 @@
 <div data-page="index" class="page">
 <div class="page-content">
 <h1 style="font-size:40px;margin-left:5%;margin-top:20px;">Custom Signer</h1> <input type="text" id="ipa" placeholder="Starfiles IPA ID" required>
-    <input type="text" id="p12" placeholder="Starfiles p12 ID" required>
-    <input type="text" id="mobile" placeholder="Starfiles mobileprovision ID" required>
-    <input type="text" id="password" placeholder="Password" required> 
-    <button id="sign_btn" onclick="sign()"">sign</button> 
+      <button id="sign_btn" onclick="sign()"">sign</button>
     <br>
     <br>
     <br>
@@ -242,10 +239,7 @@
         var password = "000"
 
         function sign() {
-            ipa = document.getElementById("ipa").value;
-            p12 = document.getElementById("p12").value;
-            mobileprovision = document.getElementById("mobile").value;
-            password = document.getElementById("password").value;                        
+            ipa = document.getElementById("ipa").value;                         
             window.open("https://sign.starfiles.co/?ipa=" + ipa + "&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
         }
     </script>
