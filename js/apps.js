@@ -6,7 +6,7 @@ function unc0ver() {
 window.open("https://sign.starfiles.co/?ipa=1bca09a52a24&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 function Taurine() {
-window.open("https://sign.starfiles.co/?ipa=90e7a4d8e29a&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+window.open("https://sign.starfiles.co/?ipa=60aa910d663c&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 function Odyssey() {
 window.open("https://sign.starfiles.co/?ipa=e4070f&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
@@ -41,4 +41,13 @@ window.open("https://sign.starfiles.co/?ipa=104a124769d3&p12=" + p12 + "&mobilep
 function sign() {
 ipa = document.getElementById("ipa").value;                         
 window.open("https://sign.starfiles.co/?ipa=" + ipa + "&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function UTM() {
+window.open("https://sign.starfiles.co/?ipa=d0ccde20a3ef&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function YT() {
+window.open("https://sign.starfiles.co/?ipa=4f0e043b0297&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function Spotify() {
+window.open("https://sign.starfiles.co/?ipa=875fc1dc61bd&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
