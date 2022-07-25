@@ -21,7 +21,7 @@ function Delta() {
 window.open("https://sign.starfiles.co/?ipa=5c8205d85428&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 function iPogo() {
-window.open("https://sign.starfiles.co/?ipa=3f99e22ef11b&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+window.open("https://sign.starfiles.co/?ipa=80d5b5a29d17&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
 function INDS() {
 window.open("https://sign.starfiles.co/?ipa=51b8b6fe21c5&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
