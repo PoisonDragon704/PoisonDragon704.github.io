@@ -50,4 +50,19 @@ window.open("https://sign.starfiles.co/?ipa=4f0e043b0297&p12=" + p12 + "&mobilep
 } 
 function Spotify() {
 window.open("https://sign.starfiles.co/?ipa=875fc1dc61bd&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function Minecraft() {
+window.open("https://sign.starfiles.co/?ipa=31d5b2c0c63a&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function retroarch() {
+window.open("https://sign.starfiles.co/?ipa=9b9f832aa0e0&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function geometry() {
+window.open("https://sign.starfiles.co/?ipa=c9645b22baf2&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function TikTok() {
+window.open("https://sign.starfiles.co/?ipa=7dbfad4ccb3e&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function lastday() {
+window.open("https://sign.starfiles.co/?ipa=768e4edca99c&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
