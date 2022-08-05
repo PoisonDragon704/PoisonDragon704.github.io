@@ -43,7 +43,7 @@ ipa = document.getElementById("ipa").value;
 window.open("https://sign.starfiles.co/?ipa=" + ipa + "&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 } 
 function UTM() {
-window.open("https://sign.starfiles.co/?ipa=d0ccde20a3ef&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+window.open("https://sign.starfiles.co/?ipa=c692419ff772&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 } 
 function YT() {
 window.open("https://sign.starfiles.co/?ipa=4f0e043b0297&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
@@ -64,5 +64,8 @@ function TikTok() {
 window.open("https://sign.starfiles.co/?ipa=7dbfad4ccb3e&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 } 
 function lastday() {
-window.open("https://sign.starfiles.co/?ipa=768e4edca99c&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+window.open("https://sign.starfiles.co/?ipa=add75efd8d0f&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function SnapChat() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
