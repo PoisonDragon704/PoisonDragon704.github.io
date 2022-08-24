@@ -68,7 +68,7 @@ window.open("https://sign.starfiles.co/?ipa=add75efd8d0f&p12=" + p12 + "&mobilep
 } 
 function SnapChat() {
 window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-} } 
+} 
 function iTorrent() {
 window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 } 
@@ -104,3 +104,4 @@ window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobilep
 } 
 function GettingOverIt() {
 window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+
