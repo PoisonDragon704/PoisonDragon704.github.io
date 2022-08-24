@@ -104,4 +104,3 @@ window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobilep
 } 
 function GettingOverIt() {
 window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-} 
