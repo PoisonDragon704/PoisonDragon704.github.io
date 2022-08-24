@@ -68,4 +68,40 @@ window.open("https://sign.starfiles.co/?ipa=add75efd8d0f&p12=" + p12 + "&mobilep
 } 
 function SnapChat() {
 window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-}
+} } 
+function iTorrent() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function VideoStar() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function Procreate() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function PicsArt++() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function DolphiniOS() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function ClashClans() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function ClashRoyale() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function BHTwitter() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function Photoshop() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function InstagramRocket() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function BitLife() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
+function GettingOverIt() {
+window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
+} 
