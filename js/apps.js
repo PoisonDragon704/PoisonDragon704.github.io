@@ -61,7 +61,3 @@ window.open("https://sign.starfiles.co/?ipa=7dbfad4ccb3e&p12=" + p12 + "&mobilep
 } 
 function lastday() {
 window.open("https://sign.starfiles.co/?ipa=add75efd8d0f&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-} 
-function SnapChat() {
-window.open("https://sign.starfiles.co/?ipa=927c538c57c6&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-}
