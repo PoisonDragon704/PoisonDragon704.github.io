@@ -2,6 +2,7 @@ var p12 = "ad9905ec941a"
 var mobileprovision = "b530d8f4ac5d"
 var password = "1qaz@wsx3edc"
 
+
 function unc0ver() {
 window.open("https://sign.starfiles.co/?ipa=1bca09a52a24&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 }
