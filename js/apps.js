@@ -43,13 +43,10 @@ window.open("https://sign.starfiles.co/?ipa=c692419ff772&p12=" + p12 + "&mobilep
 } 
 function YT() {
 window.open("https://sign.starfiles.co/?ipa=4f0e043b0297&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-} 
+}
 function Spotify() {
-window.open("https://sign.starfiles.co/?ipa=875fc1dc61bd&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-} 
-function Minecraft() {
-window.open("https://sign.starfiles.co/?ipa=31d5b2c0c63a&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-} 
+window.open("https://sign.starfiles.co/?ipa=875fc1dc61bd&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_
+}
 function retroarch() {
 window.open("https://sign.starfiles.co/?ipa=9b9f832aa0e0&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 } 
