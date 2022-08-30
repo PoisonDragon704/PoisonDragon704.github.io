@@ -1,7 +1,6 @@
-var p12 = "123456"
-var mobileprovision = "123456"
-var password = "123456"
-
+var p12 = "f906f404fd9d"
+var mobileprovision = "ca8ad7015546"
+var password = "1"
 
 function unc0ver() {
 window.open("https://sign.starfiles.co/?ipa=1bca09a52a24&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
@@ -38,10 +37,6 @@ window.open("https://sign.starfiles.co/?ipa=c95a8d862315&p12=" + p12 + "&mobilep
 }
 function Root() {
 window.open("https://sign.starfiles.co/?ipa=104a124769d3&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
-}
-function sign() {
-ipa = document.getElementById("ipa").value;                         
-window.open("https://sign.starfiles.co/?ipa=" + ipa + "&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
 } 
 function UTM() {
 window.open("https://sign.starfiles.co/?ipa=c692419ff772&p12=" + p12 + "&mobileprovision=" + mobileprovision + "&password=" + password + "&redirect=true","_self")
